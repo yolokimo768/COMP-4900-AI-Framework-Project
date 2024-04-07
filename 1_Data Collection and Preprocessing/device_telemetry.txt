@@ -1,0 +1,15 @@
+CPU Usage: 30%
+Memory Usage: 60%
+Temperature: 45°C
+Battery Status: 80%
+Signal Strength: -70dBm
+CPU Usage: 35%
+Memory Usage: 62%
+Temperature: 47°C
+Battery Status: 75%
+Signal Strength: -72dBm
+CPU Usage: 32%
+Memory Usage: 58%
+Temperature: 44°C
+Battery Status: 78%
+Signal Strength: -68dBm
